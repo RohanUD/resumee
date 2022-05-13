@@ -1,0 +1,143 @@
+body{
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+text-align: center;
+
+}
+h1{
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Sacramento', cursive;
+color: #037f6f;
+}
+h2,.bottom-container a{
+color: #037f6f;
+font-weight: bolder;
+}
+h2{
+  font-size: 30px;
+}
+.box1 p{
+  margin: 0;
+}
+
+.box1{
+background-color: #E4F9F5;
+padding-top: 300px;
+position: relative;
+}
+.lower-cloud{
+  position: absolute;
+  bottom: 350px;
+}
+.upper-cloud{
+  position: absolute;
+  right: 460px;
+  top: 220px;
+}
+.profile img{
+  background-color: black;
+  border-radius: 100%;
+}
+.skill-image{
+  border-radius: 100%;
+  background-color: black;
+  float: left;
+  margin-right: 20px;
+}
+.box1 h1,.box1 p{
+  position: relative;
+  bottom: 40px;
+}
+.box1 h1{
+  font-size: 5rem;
+}
+.box1 p{
+  font-size: 25px;
+  position: relative;
+  bottom: 4.25rem;
+  font-weight: bolder;
+}
+.skill-row{
+  width: 50%;
+  margin: 120px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.chilli-image{
+  float: right;
+  margin-left: 10px;
+  border-radius: 100%;
+  background-color: black;
+
+}
+.skill-row h3{
+  color: #037f6f;
+}
+.skill-row button{
+  border: 2px solid black;
+  background-color: white;
+  padding: 7px 7px;
+  font-size: 14px;
+  cursor: pointer;
+  border-color: #037f6f;
+  border-radius: 8%;
+
+}
+
+
+.skill-row a{
+  text-decoration: none;
+  color: #037f6f;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.flag{
+  background-color: #E4F9F5;
+  height: 270px;
+  position: relative;
+}
+.flag-left{
+  position: absolute;
+  bottom: 0px;
+  left: 200px;
+
+}
+.flag-right{
+  position: absolute;
+  right: 200px;
+  bottom: 0;
+}
+.flag-text{
+  font-weight: 600;
+  padding-top: 20px;
+}
+.flag-text h2{
+  font-size: 3rem;
+}
+.work h3{
+  padding-top:2rem ;
+  font-size: 1.5rem;
+}
+.work .svg-pen{
+  height: 200px;
+  float: left;
+  margin-top: 3.06rem;
+
+}
+.work .svg-pen-2{
+  height: 200px;
+  float: right;
+  margin-top: 3.06rem;
+}
+
+.btn{
+text-decoration: none;
+color: #037f6f;
+font-weight: bolder;
+}
+.footer-link{
+  text-decoration: none;
+color: #037f6f;
+padding: 10px;
+}
